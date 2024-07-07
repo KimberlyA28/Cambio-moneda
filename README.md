@@ -1,4 +1,4 @@
-# Calculadora de conversión de moneda
+# Conversión de moneda
 
 <h1>CONVERTIDOR DE MONEDA</h1>
 
